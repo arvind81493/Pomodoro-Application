@@ -1,2 +1,2 @@
 # Pomodoro-Application
-#It is develop by using pythhon
+#It is develop by using python tkinter library which include Canvas.
